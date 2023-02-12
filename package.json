@@ -1,0 +1,27 @@
+{
+  "name": "anecdotes",
+  "version": "1.0.0",
+  "description": "Project about anecdotes",
+  "main": "andex.js",
+  "scripts": {
+    "start": "nodemon andex.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mADANaVGUSTINA/anecdotes.git"
+  },
+  "author": "Madan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mADANaVGUSTINA/anecdotes/issues"
+  },
+  "homepage": "https://github.com/mADANaVGUSTINA/anecdotes#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
